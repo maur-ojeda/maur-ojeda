@@ -1,22 +1,76 @@
-# 💫 About Me:
-🔭 Trabajando actualmente en<br>Estoy poniendo mi pasión y habilidades en práctica en **Agenciasur**, donde contribuyo a proyectos innovadores y desafiantes.<br><br>🌱 Aprendiendo actualmente<br>Mi viaje de aprendizaje actual incluye **Inteligencia Artificial**, **Machine Learning**, y perfeccionando mis habilidades de **Frontend** con JavaScript y **Backend** con PHP y Python.<br><br>💬 Pregúntame sobre<br>Tengo experiencia en la **generación de requerimientos funcionales**, creación de **historias de usuarios**, y todo lo relacionado con **usabilidad y experiencia de usuario**. <br><br>Si tienes preguntas o necesitas consejos, ¡no dudes en preguntar!<br><br>⚡ Datos curiosos<br>Además de ser ingeniero en informática, también soy diseñador. 
+<h1 align="center">Mauricio Ojeda Bascuñán</h1>
+<h3 align="center">Fullstack Engineer · Functional Analyst · Web Designer</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mauricio-ojeda-bascu%C3%B1%C3%A1n-ab339895/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BTw1O1G1WSBioB7LiXhbw2Q%3D%3D) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@mojeda) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=maur-ojeda&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maur-ojeda&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maur-ojeda&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  <em>Ingeniero en Informática que sabe diseñar.</em><br>
+  Most developers can't design. Most designers can't code. I do both.
+</p>
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### About Me
+
+I'm a fullstack engineer and functional analyst based in Chile, currently building software at **AgenciaSur**. With 7 years of fullstack development, 2 years of functional analysis, and a graphic design background — I bridge the gap between how software works and how it feels.
+
+### What I Do
+
+| Area | Focus |
+|------|-------|
+| **Fullstack Development** | PHP/Symfony, Node.js, React — from database to UI |
+| **Functional Analysis** | Requirements engineering, process modeling, stakeholder alignment |
+| **Web Design** | UI/UX, visual design, brand consistency across interfaces |
+
+### Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **[ElectivoIA](https://github.com/maur-ojeda/ElectivoIA)** | SaaS platform for intelligent academic course management with AI recommendations · `Symfony 7 · Doctrine · EasyAdmin · MySQL` · **In Production** |
+| **[NutriVision](https://github.com/maur-ojeda/NutriVision)** | PWA for calorie and macro tracking via AI photo analysis · `React · TypeScript · Supabase · Gemini API` |
+| **[API-USUARIOS](https://github.com/maur-ojeda/API-USUARIOS)** | REST API for user management · `Node.js · TypeScript` |
+| **[electivos-backend](https://github.com/maur-ojeda/electivos-backend)** | Backend for the ElectivoIA ecosystem · `TypeScript` |
+| **[asur-base-theme](https://github.com/maur-ojeda/asur-base-theme)** | Professional WordPress theme · `PHP` |
+
+### Tech Stack
+
+**Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Twig](https://img.shields.io/badge/Twig-000000?logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+**Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maur-ojeda&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maur-ojeda&theme=default&hide_border=true&background=ffffff00" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mauricio-ojeda-bascu%C3%B1%C3%A1n-ab339895/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
