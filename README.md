@@ -24,6 +24,7 @@ I'm a fullstack engineer and functional analyst based in Chile, currently buildi
 
 | Project | Description |
 |---------|-------------|
+| **[ProfeTracker](https://github.com/maur-ojeda/Profetraker)** | Teacher attendance management system — licenses, permits, substitutions, pedagogical outings, meetings, and PME milestones · `Next.js 16 · React 19 · TypeScript · Supabase · Tailwind v4 · Gemini AI` · **In Production** |
 | **[ElectivoIA](https://github.com/maur-ojeda/ElectivoIA)** | SaaS platform for intelligent academic course management with AI recommendations · `Symfony 7 · Doctrine · EasyAdmin · MySQL` · **In Production** |
 | **[NutriVision](https://github.com/maur-ojeda/NutriVision)** | PWA for calorie and macro tracking via AI photo analysis · `React · TypeScript · Supabase · Gemini API` |
 | **[API-USUARIOS](https://github.com/maur-ojeda/API-USUARIOS)** | REST API for user management · `Node.js · TypeScript` |
